@@ -1,0 +1,16 @@
+[[github]]
+repo = "rustic-rs/rustic"
+reg = ".*x86_64-unknown-linux-gnu\\.tar\\.gz$"
+
+[[github]]
+repo = "rustic-rs/rustic"
+reg = ".*x86_64-unknown-linux-gnu\\.tar\\.gz.sig$"
+
+
+[[github]]
+repo = "rustic-rs/rustic"
+reg = ".*x86_64-unknown-linux-gnu\\.tar\\.gz.sha256$"
+
+[[gitlab]]
+host = "gitlab.com"
+id = "3472737"
